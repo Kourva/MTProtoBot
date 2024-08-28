@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img align='left' src="https://github.com/kozyol/MTProtoBot/assets/118578799/8abb7f24-2547-4e6f-a119-86419fa92342" width=200 height=200/>
+    <img align='left' src="https://github.com/Kourva/MTProtoBot/assets/118578799/8abb7f24-2547-4e6f-a119-86419fa92342" width=200 height=200/>
     <h2>MTProto Telegram Bot </h2>
   <p><b>Get frequently updated MTProto proxies from bot up to 20 at once!</b></p>
   <p><i>Also see information about each proxy which bot sends to you</i></p>
@@ -16,7 +16,7 @@ This bot can send from 5 - 20 proxies based on proxy index. [5, 10, 15, 20]
 # ▋Clone Repository
 To get started, first you need to **clone** this repository from github into your machine:
 ```bash
-git clone https://github.com/kozyol/MTProtoBot
+git clone https://github.com/Kourva/MTProtoBot
 ```
 and if you dont have git you can install it from your package manager!
 
