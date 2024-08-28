@@ -3,8 +3,8 @@
 
 
 # MTProto telegram bot
-# Developed by kozyol
-# Source code: https://github.com/kozyol/MTProtoBot
+# Developed by Kourva
+# Source code: https://github.com/Kourva/MTProtoBot
 
 
 # Libraries
